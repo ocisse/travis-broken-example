@@ -1,3 +1,1 @@
-# travis-broken-example
-
-An example that will cause a build failure
+https://travis-ci.org/ocisse/travis-broken-example
