@@ -1,4 +1,4 @@
-package Fgmp;
+package Fgmp_test;
 use strict;
 use IO::All;
 use Carp;
